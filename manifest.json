@@ -1,11 +1,11 @@
 {
-    "name": "app",
-    "short_name": "app",
+    "name": "CreateGo",
+    "short_name": "CreateGo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "App created with CreateGo",
+    "description": "CreateGo is a NoCode platform that allows you to create your own website, web app, or mobile app without coding.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
